@@ -1,0 +1,1 @@
+cat */** | grep -E 'printf|main|scanf|write'
